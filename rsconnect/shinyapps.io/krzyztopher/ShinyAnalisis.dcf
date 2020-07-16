@@ -1,0 +1,13 @@
+name: ShinyAnalisis
+title: ShinyAnalisis
+username:
+account: krzyztopher
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2229551
+bundleId: 3102192
+url: https://krzyztopher.shinyapps.io/ShinyAnalisis/
+when: 1588611853.08311
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: iris.csv
